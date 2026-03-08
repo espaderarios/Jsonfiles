@@ -1,162 +1,44 @@
-
-    {
-      "front": "Why study management theory?",
-      "back": "It provides a stable focus for understanding experiences, enables efficient communication, and challenges us to keep learning about the world."
-    },
-    {
-      "front": "What are the main schools of management thought?",
-      "back": "Scientific Management, Classical Organization Theory, Behavioral School, Management Science, Systems Approach, Contingency Approach, Dynamic Engagement."
-    },
-    {
-      "front": "What is Scientific Management’s central idea?",
-      "back": "Productivity can be expanded by raising worker efficiency through scientific methods."
-    },
-    {
-      "front": "What is Taylor’s Differential Rate System?",
-      "back": "A compensation system paying higher wages to more efficient workers."
-    },
-    {
-      "front": "What did Taylor believe about labor and management?",
-      "back": "They share a common interest in increasing productivity, reducing conflict over profits."
-    },
-    {
-      "front": "What was the Gilbreths’ ultimate aim?",
-      "back": "Helping workers reach their full potential as human beings."
-    },
-    {
-      "front": "What is the purpose of a Gantt Chart?",
-      "back": "To visually schedule tasks and track progress in project management."
-    },
-    {
-      "front": "What is Classical Organization Theory concerned with?",
-      "back": "Providing guidelines for managing complex organizations beyond individual productivity."
-    },
-    {
-      "front": "What are Fayol’s 14 principles of management?",
-      "back": "Division of work, authority/responsibility, discipline, unity of command, unity of direction, subordination of individual interest, remuneration, centralization, scalar chain, order, equity, stability of tenure, initiative, esprit de corps."
-    },
-    {
-      "front": "What does Unity of Command mean?",
-      "back": "Each employee should receive orders from only one superior."
-    },
-    {
-      "front": "What does Unity of Direction mean?",
-      "back": "Activities with a common objective must be grouped under one head."
-    },
-    {
-      "front": "What is the Scalar Chain?",
-      "back": "The line of authority from highest to lowest rank."
-    },
-    {
-      "front": "What does Equity mean in Fayol’s principles?",
-      "back": "Managers should be just and impartial when dealing with subordinates."
-    },
-    {
-      "front": "What is Esprit de Corps?",
-      "back": "Team spirit; union is strength."
-    },
-    {
-      "front": "What is Max Weber’s Bureaucratic Theory?",
-      "back": "Organizations should be rational, hierarchical, rule-based, and impersonal."
-    },
-    {
-      "front": "Name Weber’s six principles of bureaucracy.",
-      "back": "Division of labor, formal selection, impersonality, hierarchy, formal rules, career orientation."
-    },
-    {
-      "front": "What is Chester Barnard’s Zone of Indifference?",
-      "back": "Tasks employees accept without questioning authority."
-    },
-    {
-      "front": "What did Mary Parker Follett emphasize?",
-      "back": "Management as the art of getting things done through people, focusing on group membership and holistic control."
-    },
-    {
-      "front": "What is the Hawthorne Effect?",
-      "back": "Workers improve performance when they receive special attention."
-    },
-    {
-      "front": "What are Maslow’s five levels of needs?",
-      "back": "Physiological, safety, love/belonging, esteem, self-actualization."
-    },
-    {
-      "front": "What is McGregor’s Theory X view of workers?",
-      "back": "Workers dislike work, avoid responsibility, and must be controlled or threatened."
-    },
-    {
-      "front": "What is McGregor’s Theory Y view of workers?",
-      "back": "Work is natural, people seek responsibility, and can be creative under proper conditions."
-    },
-    {
-      "front": "What is the Systems Approach?",
-      "back": "Organizations are open systems with inputs, processes, outputs, and feedback."
-    },
-    {
-      "front": "What is Synergy in systems theory?",
-      "back": "The whole is greater than the sum of its parts (1+1 > 2)."
-    },
-    {
-      "front": "What is the Contingency Approach?",
-      "back": "The best management technique depends on the situation and environment."
-    },
-    {
-      "front": "What factors influence the Contingency Approach?",
-      "back": "Organization size, leadership style, employee assumptions, environment, technology, competition."
-    },
-    {
-      "front": "What is the Dynamic Engagement Approach?",
-      "back": "Managers must adapt quickly to constant change, focusing on human relationships."
-    },
-    {
-      "front": "What are CHAMPFROGS motivators?",
-      "back": "Curiosity, Honor, Acceptance, Mastery, Power, Freedom, Relatedness, Order, Goal, Status."
-    },
-    {
-      "front": "What does ‘Manage the system, not people’ mean?",
-      "back": "Create conditions for motivation and engagement rather than forcing individuals."
-    },
-    {
-      "front": "What is Division of Work?",
-      "back": "Breaking tasks into smaller parts assigned to specific employees."
-    },
-    {
-      "front": "What is Authority and Responsibility?",
-      "back": "Authority is the right to give orders; responsibility is the obligation to perform work."
-    },
-    {
-      "front": "What is Discipline in management?",
-      "back": "Respect for authority and essential for smooth organizational functioning."
-    },
-    {
-      "front": "What is Subordination of Individual Interest?",
-      "back": "Group interest should prevail over individual interest."
-    },
-    {
-      "front": "What is Remuneration of Personnel?",
-      "back": "Fair and reasonable compensation for work done."
-    },
-    {
-      "front": "What is Centralization vs Decentralization?",
-      "back": "Centralization concentrates authority; decentralization disperses it to lower levels."
-    },
-    {
-      "front": "What is Order in Fayol’s principles?",
-      "back": "Material order (everything in its place) and social order (right person for the right job)."
-    },
-    {
-      "front": "What is Stability of Tenure?",
-      "back": "Employees should not be removed frequently; stability ensures efficiency."
-    },
-    {
-      "front": "What is Initiative?",
-      "back": "Employees should be encouraged to take initiative in work matters."
-    },
-    {
-      "front": "What is Career Orientation in bureaucracy?",
-      "back": "Managers are career professionals, not owners of the units they manage."
-    },
-    {
-      "front": "What is Impersonality in bureaucracy?",
-      "back": "Rules and controls applied uniformly, not based on personal relationships."
-    }
-  
+[
+  { "front": "Why study management theory?", "back": "It provides a stable focus for understanding experiences, enables efficient communication, and challenges us to keep learning." },
+  { "front": "Main schools of management thought?", "back": "Scientific Management, Classical Organization Theory, Behavioral School, Management Science, Systems Approach, Contingency Approach, Dynamic Engagement." },
+  { "front": "Scientific Management central idea?", "back": "Productivity can be expanded by raising worker efficiency through scientific methods." },
+  { "front": "Father of Scientific Management?", "back": "Frederick W. Taylor (1856–1915)." },
+  { "front": "Taylor’s Differential Rate System?", "back": "Higher wages paid to more efficient workers." },
+  { "front": "Taylor’s view on labor and management?", "back": "They share a common interest in increasing productivity, reducing conflict over profits." },
+  { "front": "Gilbreths’ contribution?", "back": "Fatigue and motion studies, worker welfare, morale, helping workers reach full potential." },
+  { "front": "Purpose of Gantt Chart?", "back": "Visual scheduling and tracking of tasks in project management." },
+  { "front": "Classical Organization Theory focus?", "back": "Guidelines for managing complex organizations beyond individual productivity." },
+  { "front": "Father of Modern Management?", "back": "Henri Fayol, who formulated 14 principles of management." },
+  { "front": "Fayol’s 14 principles?", "back": "Division of work, authority/responsibility, discipline, unity of command, unity of direction, subordination, remuneration, centralization, scalar chain, order, equity, stability of tenure, initiative, esprit de corps." },
+  { "front": "Unity of Command?", "back": "Each employee should receive orders from only one superior." },
+  { "front": "Unity of Direction?", "back": "Activities with a common objective must be grouped under one head." },
+  { "front": "Scalar Chain?", "back": "Line of authority from highest to lowest rank." },
+  { "front": "Equity principle?", "back": "Managers should be just and impartial when dealing with subordinates." },
+  { "front": "Esprit de Corps?", "back": "Team spirit; union is strength." },
+  { "front": "Max Weber’s Bureaucratic Theory?", "back": "Organizations should be rational, hierarchical, rule-based, and impersonal." },
+  { "front": "Weber’s six principles?", "back": "Division of labor, formal selection, impersonality, hierarchy, formal rules, career orientation." },
+  { "front": "Chester Barnard’s Zone of Indifference?", "back": "Tasks employees accept without questioning authority." },
+  { "front": "Mary Parker Follett’s definition of management?", "back": "The art of getting things done through people, emphasizing group membership and holistic control." },
+  { "front": "Hawthorne Effect?", "back": "Workers improve performance when they receive special attention." },
+  { "front": "Maslow’s hierarchy of needs?", "back": "Physiological, safety, love/belonging, esteem, self-actualization." },
+  { "front": "McGregor’s Theory X?", "back": "Workers dislike work, avoid responsibility, and must be controlled or threatened." },
+  { "front": "McGregor’s Theory Y?", "back": "Work is natural, people seek responsibility, and can be creative under proper conditions." },
+  { "front": "Systems Approach?", "back": "Organizations are open systems with inputs, processes, outputs, and feedback." },
+  { "front": "Synergy in systems theory?", "back": "The whole is greater than the sum of its parts (1+1 > 2)." },
+  { "front": "Contingency Approach?", "back": "Best management technique depends on the situation and environment." },
+  { "front": "Factors in Contingency Approach?", "back": "Organization size, leadership style, employee assumptions, environment, technology, competition." },
+  { "front": "Dynamic Engagement Approach?", "back": "Managers must adapt quickly to constant change, focusing on human relationships." },
+  { "front": "CHAMPFROGS motivators?", "back": "Curiosity, Honor, Acceptance, Mastery, Power, Freedom, Relatedness, Order, Goal, Status." },
+  { "front": "Manage the system, not people?", "back": "Create conditions for motivation and engagement rather than forcing individuals." },
+  { "front": "Division of Work?", "back": "Breaking tasks into smaller parts assigned to specific employees." },
+  { "front": "Authority and Responsibility?", "back": "Authority is the right to give orders; responsibility is the obligation to perform work." },
+  { "front": "Discipline principle?", "back": "Respect for authority and essential for smooth organizational functioning." },
+  { "front": "Subordination of Individual Interest?", "back": "Group interest should prevail over individual interest." },
+  { "front": "Remuneration principle?", "back": "Fair and reasonable compensation for work done." },
+  { "front": "Centralization vs Decentralization?", "back": "Centralization concentrates authority; decentralization disperses it to lower levels." },
+  { "front": "Order principle?", "back": "Material order (everything in its place) and social order (right person for the right job)." },
+  { "front": "Stability of Tenure?", "back": "Employees should not be removed frequently; stability ensures efficiency." },
+  { "front": "Initiative principle?", "back": "Employees should be encouraged to take initiative in work matters." },
+  { "front": "Career Orientation in bureaucracy?", "back": "Managers are career professionals, not owners of the units they manage." },
+  { "front": "Impersonality in bureaucracy?", "back": "Rules and controls applied uniformly, not based on personal relationships." }
+]
